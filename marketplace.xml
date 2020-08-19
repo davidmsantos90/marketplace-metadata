@@ -755,7 +755,6 @@
         </package_url>
 
         <min_parent_version>9.0</min_parent_version>
-        <max_parent_version>9.0.99</max_parent_version>
 
         <development_stage>
           <lane>Customer</lane>
@@ -13054,12 +13053,12 @@ Uses the MarkLogic Data Movement Java SDK. Works with MarkLogic 9.0 and above on
   <id>read-excel-header</id>
   <type>Step</type>
   <name>Read Excel Header</name>
-  <category> 
+  <category>
     <name>Enhancements</name>
     <parent>
       <name>PDI Plugins</name>
     </parent>
-  </category> 
+  </category>
   <description>This step provides you with the column names and types from a excel file.</description>
   <documentation_url>https://github.com/kleineroscar/ReadExcelHeader</documentation_url>
   <author>Oscar Heimbrecht</author>
@@ -13118,13 +13117,13 @@ Uses the MarkLogic Data Movement Java SDK. Works with MarkLogic 9.0 and above on
     <support_message>Supported by the Pentaho Data Integration developer community.</support_message>
     <support_organization>Pentaho Developer Community</support_organization>
     <support_url>http://kettle.pentaho.com</support_url>
-     <screenshots> 
+     <screenshots>
     <screenshot>https://raw.githubusercontent.com/danielpascual95/CustomStepPDI/master/Imagenes/Matriculados_por_genero.PNG</screenshot>
     <screenshot>https://raw.githubusercontent.com/danielpascual95/CustomStepPDI/master/Imagenes/Matriculados_por_genero_ETL.PNG</screenshot>
     <screenshot>https://raw.githubusercontent.com/danielpascual95/CustomStepPDI/master/Imagenes/Matrculados_por_genero_grafica.PNG</screenshot>
 	</screenshots>
   </market_entry>
-  
+
 <market_entry>
     <id>PentahoGoogleSheetsPlugin</id>
 		<type>Step</type>
@@ -13158,9 +13157,9 @@ Uses the MarkLogic Data Movement Java SDK. Works with MarkLogic 9.0 and above on
         </development_stage>
       </version>
     </versions>
-  </market_entry>  
-  
-  
+  </market_entry>
+
+
  <market_entry>
     <id>datafor</id>
     <type>Platform</type>
@@ -13216,7 +13215,7 @@ For more information <a target='NO_BLANK' href='http://www.datafor.com.cn/'>plea
           <lane>Community</lane>
           <phase>4</phase>
         </development_stage>
-      </version>  
+      </version>
     </versions>
     <screenshots>
       <screenshot>https://github.com/datafor123/visualizer-free/raw/master/resource/case1.jpg</screenshot>
